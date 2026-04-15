@@ -13,7 +13,6 @@ This project analyzes e-commerce sales data using SQL.
 
 ## 📂 Files
 - SQL Queries file
-- Dataset (if allowed)
 
 ## 🚀 Outcome
 Improved understanding of customer behavior and sales trends
