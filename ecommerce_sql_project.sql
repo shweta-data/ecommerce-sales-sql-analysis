@@ -411,7 +411,7 @@ ORDER BY days_since_last_order DESC;
 
 
 -- ============================================================
--- PROJECT SUMMARY (Resume ke liye)
+-- PROJECT SUMMARY 
 -- ============================================================
 -- Project: E-Commerce Sales Analysis using MySQL
 -- Database: 4 tables — customers, products, orders, order_items
