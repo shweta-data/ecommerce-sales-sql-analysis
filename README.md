@@ -11,6 +11,9 @@ This project analyzes e-commerce sales data using SQL.
 - Used joins, group by, subqueries and window functions
 - Analyzed cancellation patterns
 
+##  screenshot
+
+
 ## Files
 - SQL Queries file
 
