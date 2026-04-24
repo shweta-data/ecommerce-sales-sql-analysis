@@ -12,6 +12,7 @@ This project analyzes e-commerce sales data using SQL.
 - Analyzed cancellation patterns
 
 ##  Screenshots
+<img width="1919" height="1008" alt="Screenshot 2026-04-24 163203" src="https://github.com/user-attachments/assets/28fbf59d-7800-4d82-8547-11db7c12e7e3" />
 
 
 ## Files
