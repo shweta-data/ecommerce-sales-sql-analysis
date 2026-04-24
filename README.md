@@ -1,18 +1,18 @@
 # E-Commerce Sales Analysis (MySQL)
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes e-commerce sales data using SQL.
 
-## 🛠️ Tools Used
+##  Tools Used
 - MySQL
 
-## 📊 Key Insights
+##  Key Insights
 - Identified top 5 customers contributing 68% revenue
 - Used joins, group by, subqueries and window functions
 - Analyzed cancellation patterns
 
-## 📂 Files
+##  Files
 - SQL Queries file
 
-## 🚀 Outcome
+##  Outcome
 Improved understanding of customer behavior and sales trends
